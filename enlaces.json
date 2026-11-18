@@ -1,7 +1,79 @@
 [
-  {"titulo":"Enlace 1","url":"https://es.wikipedia.org/wiki/Insecta"},
-  {"titulo":"Enlace 2","url":"https://example.com/2"},
-  {"titulo":"Enlace 3","url":"https://example.com/3"},
-  {"titulo":"Enlace 4","url":"https://example.com/4"},
-  {"titulo":"Enlace 5","url":"https://example.com/5"}
+  {
+    "titulo": "Clasificación y anatomía de insectos",
+    "institucion": "Universidad Estatal de Carolina del Norte",
+    "descripcion": "Taxonomía, estructura corporal, metamorfosis y órdenes.",
+    "url": "https://content.ces.ncsu.edu/extension-gardener-handbook/4-insects",
+    "categoria": "Clasificación"
+  },
+  {
+    "titulo": "Polinización e importancia agrícola",
+    "institucion": "FAO",
+    "descripcion": "Importancia ecológica y económica de los polinizadores.",
+    "url": "https://www.fao.org/pollination/about/en/",
+    "categoria": "Ecología"
+  },
+  {
+    "titulo": "Cucarachas: comportamiento e infestaciones",
+    "institucion": "Universidad Estatal de Colorado",
+    "descripcion": "Hábitos nocturnos, reproducción y señales de infestación.",
+    "url": "https://agsci.colostate.edu/agbio/ipm-pests/cockroaches/",
+    "categoria": "Cucarachas"
+  },
+  {
+    "titulo": "Mordeduras de cucarachas en humanos",
+    "institucion": "Acta Médica (2026)",
+    "descripcion": "Reporte clínico y revisión de literatura.",
+    "url": "https://doi.org/10.35366/124104",
+    "categoria": "Cucarachas"
+  },
+  {
+    "titulo": "Cucarachas y plagas domésticas",
+    "institucion": "Universidad de California, Riverside",
+    "descripcion": "Biología, importancia sanitaria y comportamiento.",
+    "url": "https://entomology.ucr.edu/ebelingchapter6",
+    "categoria": "Cucarachas"
+  },
+  {
+    "titulo": "Probóscide de mosquito como boquilla 3D",
+    "institucion": "Science Advances (2025)",
+    "descripcion": "Estudio original de necroimpresión 3D y microboquillas.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12629191/",
+    "categoria": "Ingeniería natural"
+  },
+  {
+    "titulo": "Engranajes naturales de los insectos",
+    "institucion": "Science (2013)",
+    "descripcion": "Engranajes cuticulares que sincronizan patas de Issus.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/24031019/",
+    "categoria": "Ingeniería natural"
+  },
+  {
+    "titulo": "Chinche asesina que usa termitas como carnada",
+    "institucion": "Annals of the Entomological Society of America (1983)",
+    "descripcion": "Investigación original sobre Salyavata variegata.",
+    "url": "https://doi.org/10.1093/aesa/76.3.483",
+    "categoria": "Datos curiosos"
+  },
+  {
+    "titulo": "Archivo audiovisual de la chinche asesina",
+    "institucion": "NC State University Libraries",
+    "descripcion": "Material de investigación de Elizabeth McMahan.",
+    "url": "https://www.lib.ncsu.edu/findingaids/mc00359/",
+    "categoria": "Datos curiosos"
+  },
+  {
+    "titulo": "Avispa que controla cucarachas",
+    "institucion": "PubMed · bibliografía científica",
+    "descripcion": "Investigaciones sobre Ampulex compressa y Libersat.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Ampulex+compressa+Libersat",
+    "categoria": "Datos curiosos"
+  },
+  {
+    "titulo": "Hormigas tejedoras y seda larval",
+    "institucion": "PubMed · bibliografía científica",
+    "descripcion": "Investigaciones sobre nidos de Oecophylla.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Oecophylla+larval+silk+nest",
+    "categoria": "Datos curiosos"
+  }
 ]
